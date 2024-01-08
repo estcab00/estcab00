@@ -9,7 +9,7 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - Stata: Intermediate
 - SQL: Intermediate
 
-### Areas of interest 💖
+### Areas of interest🎁
 - Advanced Econometrics
 - Applied Machine Learning
 - Public finances
@@ -18,18 +18,20 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - Webscrapping of the Peruvian Central Bank of Reserve
 - Inflation Prediction with Machine Learning Techniques
 - Workshop of Time Series Manipulation and Statistics in Python
+
+### Currently learning📖
 - Spatial econometrics
+- Advanced microeconometrics
+- Deep Learning
+- Advanced webscrapping
+
+### Hobbies☀️
+- Cycling 🚴
+- Reading📚
+- Language Learning🗣️
 
 ### How to reach me 📫
 - LinkedIn: https://www.linkedin.com/in/esteban-cabrera-bonilla/
 - Twitter: https://twitter.com/estebanscabrera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
 
