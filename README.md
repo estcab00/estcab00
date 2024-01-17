@@ -40,4 +40,7 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - LinkedIn: https://www.linkedin.com/in/esteban-cabrera-bonilla/
 - Twitter: https://twitter.com/estebanscabrera
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/LuisEgus/count.svg" />
+</p>
