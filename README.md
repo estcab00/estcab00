@@ -30,7 +30,7 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - Reading📚
 - Language Learning🗣️
 
-<a href="https://github.com/LuisEgus">
+<a href="https://github.com/estcab00">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estcab00&theme=radical&hide=glsl,python" />
 </a>
 
@@ -42,5 +42,5 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/LuisEgus/count.svg" />
+  <img src="https://profile-counter.glitch.me/estcab00/count.svg" />
 </p>
