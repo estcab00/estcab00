@@ -12,7 +12,6 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 ### Areas of interest🎁
 - Advanced Econometrics
 - Applied Machine Learning
-- Public finances
 
 ### Projects 🌱 
 - Webscrapping of the Peruvian Central Bank of Reserve
