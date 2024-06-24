@@ -21,9 +21,9 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 
 ### Currently learning📖
 - Spatial econometrics
-- Advanced microeconometrics
-- Deep Learning
-- Advanced webscrapping
+- Microeconometrics
+- OCR
+- Webscrapping
 
 ### Hobbies☀️
 - Cycling 🚴
