@@ -24,11 +24,6 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - OCR
 - Webscrapping
 
-### Hobbies☀️
-- Cycling 🚴
-- Reading📚
-- Language Learning🗣️
-
 <a href="https://github.com/estcab00">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estcab00&theme=radical&hide=glsl,python" />
 </a>
@@ -36,9 +31,9 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 <img src="https://github-readme-stats.vercel.app/api?username=estcab00&&show_icons=true&theme=radical&line_height=27&v=5" alt="Esteban Cabrera's GitHub Stats" />
 
 ### How to reach me 📫
+- Email: esteban.cabrera@pucp.edu.pe
 - Website: https://estcab00.github.io/portafolio/
 - LinkedIn: https://www.linkedin.com/in/esteban-cabrera-bonilla/
-- Twitter: https://twitter.com/estebanscabrera
 
 <p align="center"> 
   Visitor count<br>
