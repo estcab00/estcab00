@@ -25,7 +25,7 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - Webscrapping
 
 <a href="https://github.com/estcab00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estcab00" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estcab00&theme=radical" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=estcab00&&show_icons=true&theme=radical&line_height=27&v=5" alt="Esteban Cabrera's GitHub Stats" />
