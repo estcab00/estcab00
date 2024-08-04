@@ -9,20 +9,10 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - Stata: Intermediate
 - SQL: Intermediate
 
-### Areas of interest🎁
-- Advanced Econometrics
-- Applied Machine Learning
-
 ### Projects 🌱 
 - Webscrapping of the Peruvian Central Bank of Reserve
 - Inflation Prediction with Machine Learning Techniques
 - Workshop of Time Series Manipulation and Statistics in Python
-
-### Currently learning📖
-- Spatial econometrics
-- Microeconometrics
-- OCR
-- Webscrapping
 
 <a href="https://github.com/estcab00">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estcab00&theme=radical&layout=compact&langs_count=6" />
