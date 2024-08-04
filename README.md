@@ -15,7 +15,7 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - Workshop of Time Series Manipulation and Statistics in Python
 
 <a href="https://github.com/estcab00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estcab00&theme=radical&layout=compact&langs_count=6&hide=CSS,JavaScript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estcab00&size_weight=0.2&count_weight=0.8&theme=radical&layout=compact&langs_count=6" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=estcab00&&show_icons=true&theme=radical&hide=issues,contribs&line_height=27&v=5" alt="Esteban Cabrera's GitHub Stats" />
