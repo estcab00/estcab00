@@ -25,7 +25,3 @@ I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica d
 - Website: https://estcab00.github.io/portafolio/
 - LinkedIn: https://www.linkedin.com/in/esteban-cabrera-bonilla/
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/estcab00/count.svg" />
-</p>
