@@ -1,6 +1,6 @@
 ### Hi there 👋😄
 
-I am Esteban Cabrera, an Economics student at Pontificia Universidad Católica del Perú (PUCP) and research assistant at the Artificial Intelligence and Computational Methods in the Social Sciences lab (QLAB PUCP). Advanced knowledge on programming, statistical and financial tools. Development of projects in Python and RStudio. Proactive and eager to learn new things.
+I am Esteban Cabrera, a Bachellor in Economics at Pontificia Universidad Católica del Perú (PUCP), Data Scientist at APOYO Consulting and research assistant at the Artificial Intelligence and Computational Methods in the Social Sciences lab (QLAB PUCP). Advanced knowledge on programming, statistical and financial tools. Development of projects in Python and RStudio. Proactive and eager to learn new things.
 
 ### Knowledge of programming 🔭
 - Python: Advanced
